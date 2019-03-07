@@ -4,22 +4,22 @@
 </br>
 <h2>script.js --> les tableaux</h2>
 <p>
-Accéder aux données de l'array
-Trouver la taille d'un array
-Ajouter et supprimer des données dans un array
+Accéder aux données de l'array</br>
+Trouver la taille d'un array</br>
+Ajouter et supprimer des données dans un array</br>
 Pratique : Trouver les initiales</p>
 </br>
 <h2>fonction.js</h2>
-<p>25. Découverte des fonctions
-Le scope
-Retourner une valeur
-Pratique : Calculer une moyenne (V1)
-Écrire des commentaires
-Comprendre les Booleans
-La condition ternaire
-Les opérateurs
-Le mode strict
-La condition if / else
+<p>25. Découverte des fonctions</br>
+Le scope</br>
+Retourner une valeur</br>
+Pratique : Calculer une moyenne (V1)</br>
+Écrire des commentaires</br>
+Comprendre les Booleans</br>
+La condition ternaire</br>
+Les opérateurs</br>
+Le mode strict</br>
+La condition if / else</br>
 Pratique : Calculer une moyenne (V2)</p>
 </br>
 <h2>objet.js</h2>
@@ -29,19 +29,19 @@ Pratique : Calculer une moyenne (V2)</p>
 <p>imbriquer une boucle dans une boucle</p>
 </br>
 <h2>random.js</h2>
-<p>Générer un nombre aléatoire
-Générer un nombre aléatoire dans un rang
-Pratique : Mélanger un Array
+<p>Générer un nombre aléatoire</br>
+Générer un nombre aléatoire dans un rang</br>
+Pratique : Mélanger un Array</br>
 Découverte de la méthode Map</p>
 </br>
 <h2>ES6 / ES7</h2>
-<p>Les Template Strings
-Cas pratique avec les Template Strings
-Les fonctions Fléchées
-Paramètre par défaut dans une fonction
-Le Destructuring avec un Objet
-Le Destructuring d'Array
-Intervertir des valeurs
-Pratique : Mélanger un Array version ES6
-Le Spread Operator
+<p>Les Template Strings</br>
+Cas pratique avec les Template Strings</br>
+Les fonctions Fléchées</br>
+Paramètre par défaut dans une fonction</br>
+Le Destructuring avec un Objet</br>
+Le Destructuring d'Array</br>
+Intervertir des valeurs</br>
+Pratique : Mélanger un Array version ES6</br>
+Le Spread Operator</br>
 Cas pratique avec le Spread Operator</p>
