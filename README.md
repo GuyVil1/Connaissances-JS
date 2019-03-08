@@ -55,7 +55,7 @@ Supprimer un élément</br>
 Créer un texte et le placer dans mon html</br>
 remplacer un élément par un autre</br>
 Ajouter du texte</br>
-Changer les attributs</br>
+Changer les attributs (changer un hypperlien)</br>
 Changer une liste d'élement en array</br>
 
 
