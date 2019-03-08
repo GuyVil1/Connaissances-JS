@@ -215,3 +215,72 @@ function randomize2(es){
 }
 
 console.log(randomize2([1,2,3,4,5,6,7,8]));
+
+
+//le Spread operator
+//va servir à dire " prends tout ce que tu vas trouver dans les choses que je te pointes"
+//pour déclencher le spreadO, on indique ...avant l'élement que l'on veut pointer
+
+const listeAmis = ["Cyril", "Gael", "Florian"];
+const listeFamille = ["Jean-Claude", "Anne-sophie", "Charles"];
+
+console.log(listeAmis, listeFamille);//si j'utilise le console.log de cette manière, on me retourne un tableau.
+//si je claque un spread operator avant mes élèments, j'aurai le contenu de mes tableaux;
+console.log(...listeAmis, ...listeFamille);
+//si je veux fusionner mes deux listes en une:
+
+const liste = [...listeAmis, ...listeFamille];
+console.log(liste);
+console.log(...liste);
+
+//Je peux rajouter des éléments entre mes deux listes
+
+const liste2 = [...listeAmis, "banjo", "kazooie", ...listeFamille, "Adam"];
+console.log(...liste2);
+
+//Le spread opérator permet aussi de régler un soucis de copie de tableau
+//exemple avant:
+
+const listFriends = ["Cyril", "Gael", "Florian", "Jean-Claude", "Anne-sophie", "Charles"];
+
+//si je veux faire une copie de cette liste
+
+const copyList = listFriends;
+console.log(copyList);
+
+//si je veux rajouter un élement à ma copylist, il va se rajouter automatiquement dans ma liste initiale ce qui peut être un problème:
+
+copyList.push("Patrick");
+console.log(`voici ma copyList ${copyList}`);
+console.log(`Voici ma liste originale ${listFriends}`);//listFriends à pris aussi la valeur Patrick.
+
+//Pour éviter ce phénomène, le spread operator est notre ami:
+
+
+const listFriends2 = ["Cyril", "Gael", "Florian", "Jean-Claude", "Anne-sophie", "Charles"];
+
+const copyList2 = [...listFriends2];
+console.log(copyList2);
+
+copyList2.push("Patrick");
+console.log(`voici ma copyList ${copyList2}`);
+console.log(`Voici ma liste originale ${listFriends2}`)//cette fois, la valeur Patrick n'a pas été pushée dans la liste originale.
+
+
+/*le restoperator: même chose que le spread, mais il est cette fois utilisé dans une fonction*/
+
+function plusUn(...args){
+    const arr = [...args];
+    return arr.map(num=> num + 1);
+}
+console.log(plusUn(1,2,3,4,5,6));
+
+
+//Les nouveautés ES7
+//2nouveautés seulement
+
+console.log(2 ** 4);//calculer la puissance: ici 2 exposant 4
+
+const array2 = ["a","b","c","d","e"]
+
+console.log(array2.includes("a"));//est-ce que dans mon tableau il y a un "a" inclus? me renvoie un boleans
