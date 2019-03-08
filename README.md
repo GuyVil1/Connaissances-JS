@@ -45,3 +45,17 @@ Intervertir des valeurs</br>
 Pratique : Mélanger un Array version ES6</br>
 Le Spread Operator</br>
 Cas pratique avec le Spread Operator</p>
+</br>
+<h2> Le DOM</h2>
+<p>TagName</br>
+elementById</br>
+insérer contenu avant un élément</br>
+insérer contenu à la fin</br>
+Supprimer un élément</br>
+Créer un texte et le placer dans mon html</br>
+remplacer un élément par un autre</br>
+Ajouter du texte</br>
+Changer les attributs</br>
+Changer une liste d'élement en array</br>
+
+
