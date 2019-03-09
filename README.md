@@ -82,4 +82,6 @@ modifier le style</br>
 autre méthode pour trouver un élément</br></p>
 <h2>ClassList</h2>
 <p>ajouter / Supprimer des class</br></p>
+<h2>exoScroll</h2>
+<p>Faire scroller une page avec précision</br></p>
 
