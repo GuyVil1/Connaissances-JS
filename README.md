@@ -1,3 +1,22 @@
+<h2> Les connaissances de bases</h2>
+<p> La logique de JavaScript</br>
+Les types de valeurs</br>
+Assigner une valeur</br>
+Le Camel Case</br>
+Les nombres décimaux</br>
+Les priorités de calcul</br>
+Une dernière opération</br>
+L'incrémentation</br>
+L'assignement composé</br>
+Les chaînes de caractères</br>
+Échapper un caractère</br>
+Concaténer des chaînes de caractères</br>
+Pratique : Générer une phrase</br>
+Trouver la taille d'une chaîne de caractères</br>
+L'immutabilité</br></p>
+
+<h2>Connaissances avancées</h2>
+
 <p>Je regroupe ici les connaissances avancées sur javascript. Certaines connaissances sont déjà fixée</p>
 <p>D'autres sont en cours de fixation. Ceci est un gros aide mémoire accessible en ligne quoi</p>
 <p>contenu:</p>
