@@ -86,4 +86,11 @@ autre méthode pour trouver un élément</br></p>
 <p>Faire scroller une page avec précision</br></p>
 <h2>exoWindows</h2>
 <p>faire rebondir un élements dans la fenêtre</br></p>
+<h2>baseEvent</h2>
+<p>Comprendre les Évènements</br>
+Supprimer un Évènement</br>
+Surveiller le clavier de l'utilisateur</br>
+Pratique : Afficher une image au clic</br></p>
+
+
 
