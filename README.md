@@ -95,5 +95,9 @@ Pratique : Afficher une image au clic</br></p>
 <p>retenir le visiteur quand il quitte ma page</br></p>
 <h2>scrollBar</h2>
 <p>indicateur de %tage de scroll dans ma page</br></p>
+<h2>focusBlur</h2>
+<p>Le focus et le Blur</br></p>
+<h2>Load</h2>
+<p>Attendre qu'un élément soit chargé</br></p>
 
 
