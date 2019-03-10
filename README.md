@@ -84,4 +84,6 @@ autre méthode pour trouver un élément</br></p>
 <p>ajouter / Supprimer des class</br></p>
 <h2>exoScroll</h2>
 <p>Faire scroller une page avec précision</br></p>
+<h2>exoWindows</h2>
+<p>faire rebondir un élements dans la fenêtre</br></p>
 
