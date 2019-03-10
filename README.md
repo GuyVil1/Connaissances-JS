@@ -91,6 +91,8 @@ autre méthode pour trouver un élément</br></p>
 Supprimer un Évènement</br>
 Surveiller le clavier de l'utilisateur</br>
 Pratique : Afficher une image au clic</br></p>
+<h2>clickMouseOut</h2>
+<p>retenir le visiteur quand il quitte ma page</br></p>
 
 
 
