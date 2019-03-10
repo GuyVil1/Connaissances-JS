@@ -93,6 +93,7 @@ Surveiller le clavier de l'utilisateur</br>
 Pratique : Afficher une image au clic</br></p>
 <h2>clickMouseOut</h2>
 <p>retenir le visiteur quand il quitte ma page</br></p>
-
+<h2>scrollBar</h2>
+<p>indicateur de %tage de scroll dans ma page</br></p>
 
 
