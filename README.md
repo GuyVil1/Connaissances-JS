@@ -99,5 +99,10 @@ Pratique : Afficher une image au clic</br></p>
 <p>Le focus et le Blur</br></p>
 <h2>Load</h2>
 <p>Attendre qu'un élément soit chargé</br></p>
-
+<h2>setTimeout</h2>
+<p>Déclencher un script au bout de X secondes</br></p>
+<h2>setTimeout.html</h2>
+<p>Déclencher un script tout les X secondes</br></p>
+<h2>setInterval.html</h2>
+<p>Pratique : Supprimer toutes les voyelles du clavier</br></p>
 
