@@ -104,5 +104,10 @@ Pratique : Afficher une image au clic</br></p>
 <h2>setTimeout.html</h2>
 <p>Déclencher un script tout les X secondes</br></p>
 <h2>setInterval.html</h2>
+<p>déclencher un script a intervalle régulier</br></p>
+<h2>clvrJS</h2>
 <p>Pratique : Supprimer toutes les voyelles du clavier</br></p>
-
+<p>le join</br></p>
+<p>includes</br></p>
+<h2>disabledButton</h2>
+<p>désactiver un boutton</br></p>
