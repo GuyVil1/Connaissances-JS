@@ -112,3 +112,6 @@ Pratique : Afficher une image au clic</br></p>
 <p>+rappel HTML textarea</p>
 <h2>disabledButton</h2>
 <p>désactiver un boutton</br></p>
+<p>keyup et keydown</br></p>
+<p>value</br></p>
+
