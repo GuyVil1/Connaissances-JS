@@ -17,7 +17,7 @@ let leftPos = 0;
 
 //je défnini la force de mon animation
 
-let forceH = - 2;//la hauteur
+let forceH = - 3;//la hauteur
 let forceW = - 2;//la largeur
 
 //je crée ma fonction animation
