@@ -109,5 +109,6 @@ Pratique : Afficher une image au clic</br></p>
 <p>Pratique : Supprimer toutes les voyelles du clavier</br></p>
 <p>le join</br></p>
 <p>includes</br></p>
+<p>+rappel HTML textarea</p>
 <h2>disabledButton</h2>
 <p>désactiver un boutton</br></p>
