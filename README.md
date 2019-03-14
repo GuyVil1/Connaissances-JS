@@ -114,4 +114,12 @@ Pratique : Afficher une image au clic</br></p>
 <p>désactiver un boutton</br></p>
 <p>keyup et keydown</br></p>
 <p>value</br></p>
+<h2>preventDefault</h2>
+<p>empêcher à un formulaire de recharger une page après avoir poussé le bouton submit</br></p>
+<p>REFRESH : RESET</br>
+<h2>markdown</h2>
+<p> pratrique développer unéditeur de texte</br>
+le storage local</p>
+
+
 
